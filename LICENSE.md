@@ -1,10 +1,13 @@
 Open Source Licenses
---JavaOSC--
+====================
+JavaOSC
+-------
 Copyright (c) 2002-2006, C. Ramakrishnan / Illposed Software
 All rights reserved. 
 
 
 Apache License
+==============
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
